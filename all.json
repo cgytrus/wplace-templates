@@ -1,44 +1,50 @@
 [
-{
-  "version": 1,
-  "name": "cooki",
-  "imageUrl": "https://raw.githubusercontent.com/cgytrus/wplace-templates/refs/heads/main/cooki.png",
-  "pixelUrl": "https://backend.wplace.live/s0/pixel/517/946?x=205&y=69"
-},
-{
-  "version": 1,
-  "name": "cavendish",
-  "imageUrl": "https://raw.githubusercontent.com/cgytrus/wplace-templates/refs/heads/main/cavendish.png",
-  "pixelUrl": "https://backend.wplace.live/s0/pixel/516/945?x=695&y=501"
-},
-{
-  "version": 1,
-  "name": "ralsei1",
-  "imageUrl": "https://raw.githubusercontent.com/cgytrus/wplace-templates/refs/heads/main/ralsei1.png",
-  "pixelUrl": "https://backend.wplace.live/s0/pixel/516/945?x=673&y=453"
-},
-{
-  "version": 1,
-  "name": "wpsv-qr",
-  "imageUrl": "https://raw.githubusercontent.com/cgytrus/wplace-templates/refs/heads/main/wpsv-qr.png",
-  "pixelUrl": "https://backend.wplace.live/s0/pixel/516/945?x=603&y=455"
-},
-{
-  "version": 1,
-  "name": "ralsei2",
-  "imageUrl": "https://raw.githubusercontent.com/cgytrus/wplace-templates/refs/heads/main/ralsei2.png",
-  "pixelUrl": "https://backend.wplace.live/s0/pixel/516/945?x=833&y=432"
-},
-{
-  "version": 1,
-  "name": "trainlogo",
-  "imageUrl": "https://raw.githubusercontent.com/cgytrus/wplace-templates/refs/heads/main/trainlogo.png",
-  "pixelUrl": "https://backend.wplace.live/s0/pixel/1238/636?x=325&y=640"
-},
-{
-  "version": 1,
-  "name": "ralsei4",
-  "imageUrl": "https://raw.githubusercontent.com/cgytrus/wplace-templates/refs/heads/main/ralsei4.png",
-  "pixelUrl": "https://backend.wplace.live/s0/pixel/516/945?x=673&y=377"
-}
+  {
+    "version": 1,
+    "name": "cooki",
+    "imageUrl": "https://raw.githubusercontent.com/cgytrus/wplace-templates/refs/heads/main/cooki.png",
+    "pixelUrl": "https://backend.wplace.live/s0/pixel/517/946?x=205&y=69"
+  },
+  {
+    "version": 1,
+    "name": "cavendish",
+    "imageUrl": "https://raw.githubusercontent.com/cgytrus/wplace-templates/refs/heads/main/cavendish.png",
+    "pixelUrl": "https://backend.wplace.live/s0/pixel/516/945?x=695&y=501"
+  },
+  {
+    "version": 1,
+    "name": "ralsei1",
+    "imageUrl": "https://raw.githubusercontent.com/cgytrus/wplace-templates/refs/heads/main/ralsei1.png",
+    "pixelUrl": "https://backend.wplace.live/s0/pixel/516/945?x=673&y=453"
+  },
+  {
+    "version": 1,
+    "name": "wpsv-qr",
+    "imageUrl": "https://raw.githubusercontent.com/cgytrus/wplace-templates/refs/heads/main/wpsv-qr.png",
+    "pixelUrl": "https://backend.wplace.live/s0/pixel/516/945?x=603&y=455"
+  },
+  {
+    "version": 1,
+    "name": "ralsei2",
+    "imageUrl": "https://raw.githubusercontent.com/cgytrus/wplace-templates/refs/heads/main/ralsei2.png",
+    "pixelUrl": "https://backend.wplace.live/s0/pixel/516/945?x=833&y=432"
+  },
+  {
+    "version": 1,
+    "name": "trainlogo",
+    "imageUrl": "https://raw.githubusercontent.com/cgytrus/wplace-templates/refs/heads/main/trainlogo.png",
+    "pixelUrl": "https://backend.wplace.live/s0/pixel/1238/636?x=325&y=640"
+  },
+  {
+    "version": 1,
+    "name": "ralsei4",
+    "imageUrl": "https://raw.githubusercontent.com/cgytrus/wplace-templates/refs/heads/main/ralsei4.png",
+    "pixelUrl": "https://backend.wplace.live/s0/pixel/516/945?x=673&y=377"
+  },
+  {
+    "version": 1,
+    "name": "niko",
+    "imageUrl": "https://raw.githubusercontent.com/cgytrus/wplace-templates/refs/heads/main/niko.png",
+    "pixelUrl": "https://backend.wplace.live/s0/pixel/517/946?x=344&y=208"
+  }
 ]
