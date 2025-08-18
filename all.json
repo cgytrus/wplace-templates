@@ -31,12 +31,6 @@
 },
 {
   "version": 1,
-  "name": "ralsei3",
-  "imageUrl": "https://raw.githubusercontent.com/cgytrus/wplace-templates/refs/heads/main/ralsei3.png",
-  "pixelUrl": "https://backend.wplace.live/s0/pixel/516/945?x=139&y=252"
-},
-{
-  "version": 1,
   "name": "trainlogo",
   "imageUrl": "https://raw.githubusercontent.com/cgytrus/wplace-templates/refs/heads/main/trainlogo.png",
   "pixelUrl": "https://backend.wplace.live/s0/pixel/1238/636?x=325&y=640"
