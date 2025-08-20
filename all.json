@@ -54,5 +54,12 @@
     "imageUrl": "https://raw.githubusercontent.com/cgytrus/wplace-templates/refs/heads/main/niko.png",
     "x": 517344,
     "y": 946208
+  },
+  {
+    "version": 1,
+    "name": "pepsi",
+    "imageUrl": "https://raw.githubusercontent.com/cgytrus/wplace-templates/refs/heads/main/pepsi.png",
+    "x": 1238099,
+    "y": 636015
   }
 ]
